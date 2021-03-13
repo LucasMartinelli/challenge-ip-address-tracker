@@ -1,0 +1,9 @@
+:root {
+   --VeryDark-Gray: hsl(0, 0%, 17%);
+   --Dark-Gray: hsl(0, 0%, 59%);
+}
+/* -------------------------- GERAL -------------------------------------------------  */
+* {
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+}
